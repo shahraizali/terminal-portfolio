@@ -275,7 +275,7 @@ function print() { __p += __j.call(arguments, '') }
 \\_/ \\_/_|_|
           
                                                    
-          `})}),Q("div",{children:"Welcome to my terminal portfolio. (Version 1.3.1)"}),Q(cm,{children:"----"}),ke("div",{children:["This project's source code can be found in this project's"," ",Q(WP,{href:"https://github.com/satnaing/terminal-portfolio",children:"GitHub repo"}),"."]}),Q(cm,{children:"----"}),ke("div",{children:["For a list of available commands, type `",Q(UP,{children:"help"}),"`."]})]}),Q("div",{className:"illu-section",children:Q(DP,{children:`
+          `})}),Q("div",{children:"Welcome to my terminal portfolio. (Version 1.3.1)"}),Q(cm,{children:"----"}),ke("div",{children:["This project's source code can be found in this project's"," ",Q(WP,{href:"https://github.com/shahraizali/terminal-portfolio",children:"GitHub repo"}),"."]}),Q(cm,{children:"----"}),ke("div",{children:["For a list of available commands, type `",Q(UP,{children:"help"}),"`."]})]}),Q("div",{className:"illu-section",children:Q(DP,{children:`
                        ,##,,eew,
                      ,##############C
                   a###############@##
