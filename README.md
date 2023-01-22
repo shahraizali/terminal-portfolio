@@ -1,6 +1,6 @@
-# Terminal Portfolio Website by Sat Naing
+# Terminal Portfolio Website by Shahraiz Ali
 
-![Terminal Portfolio Website by Sat Naing](https://user-images.githubusercontent.com/53733092/194220661-e2ff8b4c-f64a-4b64-a836-c52fae6bbcda.png)
+![Terminal Portfolio Website by Shahraiz Ali](https://user-images.githubusercontent.com/53733092/194220661-e2ff8b4c-f64a-4b64-a836-c52fae6bbcda.png)
 
 ![ts](https://badgen.net/badge/Built%20With/TypeScript/blue?style=flat-square)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/81fdb91d-c06f-46c2-b18d-dfc6f090f281/deploy-status)](https://app.netlify.com/sites/terminal-sn/deploys)
@@ -8,7 +8,7 @@
 
 My perfolio website in terminal version developed with React, TypeScript and Styled-Components. Multiple themes supported and keyboard shortcuts can be used for some functionalities.
 
-Blog Post: https://satnaing.dev/blog/posts/how-do-i-develop-my-terminal-portfolio-website-with-react
+Blog Post: https://shahraizali.com/blog/posts/how-do-i-develop-my-terminal-portfolio-website-with-react
 
 ## Features
 
@@ -37,7 +37,7 @@ Currently, this website supports 6 themes. Type `themes` in the terminal for mor
 ## Lighthouse Score
 
 <p align="center">
-<img width="710" alt="Sat Naing Terminal Lighthouse Score" src="public/lighthouse-result.svg">
+<img width="710" alt="Shahraiz Ali Terminal Lighthouse Score" src="public/lighthouse-result.svg">
 </p>
 
 ## Running Locally
@@ -81,4 +81,5 @@ Here are some inspiration for this kind of terminal website. Only some features 
 
 ## Author
 
-- [@satnaing](https://satnaing.dev)
+- [@satnaing](https://shahraizali.com)
+# terminal-portfolio
